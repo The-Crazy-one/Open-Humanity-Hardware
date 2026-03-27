@@ -11,18 +11,24 @@ Wir demokratisieren den Zugang zu Schutzräumen. Durch Open Source Hardware erm�
 🛠️ Unsere Module
 
 1. Supporting_Center (Flexibler Faltraum)
+   
 Ein skalierbares Raumsystem, das Logistikprobleme löst.
 Konzept: Vom Kinderreisebett zum Wohncontainer.
 Technik: Thermisch isolierte Textilhülle (Camping-Style) mit stabiler Kreuzverstrebung.
 Modular: Technik-Schubladen für Wasser, Strom und Klima (Plug & Play Wartung).
 Einsatz: Flüchtlingslager, Feldlazarette oder Festival-Infrastruktur.
 
+[Zum Supporting_Center](https://github.com/The-Crazy-one/Supporting_Center)
+
 2. Wohntrolley (Mobiler Lebensraum)
+   
 Würde für die Straße – mehr als nur ein Schlafplatz.
 Konzept: Basiert auf einem stabilen Einkaufstrolley.
 Impact: Ein integrierter Klappsitz, damit man Mitmenschen auf Augenhöhe begegnet.
 Funktion: Ausziehbares, wetterfestes Schlafzelt, das zur Duschkabine hochgeklappt werden kann.
 Autarkie: Integrierter Dynamo für Licht und Radio.
+
+[Zum Wohntrolley](https://github.com/The-Crazy-one/Wohntrolley)
 
 
 📢 Call to Action für Content Creator
@@ -30,8 +36,6 @@ Autarkie: Integrierter Dynamo für Licht und Radio.
 Du erstellst Content über Tech, Nachhaltigkeit oder Soziales? Wir brauchen deine Reichweite!
 Was du tun kannst: Präsentiere die Konzepte, baue einen Prototyp nach oder diskutiere die Open-Source-Logik in deinen Videos.
 Assets für dich: In unserem /media Ordner findest du Renderings, Skizzen und Textbausteine für deine Community.
-
-Kontakt: [Dein Name/Link]
 
 
 🤝 Mitmachen (Open Source)
