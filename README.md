@@ -76,5 +76,6 @@ Lokale Produktion: Ziel ist es, dass Hilfe weltweit lokal gefertigt werden kann.
 
 Lizenz: [MIT / Creative Commons CC-BY-SA] – Jeder darf es nutzen, solange Verbesserungen geteilt werden.
 
+---
 
-**[Back to The-Crazy-one](https://github.com/The-Crazy-one/The-Crazy-one)**
+**[Back to The-Crazy-one](https://github.com/The-Crazy-one)**
